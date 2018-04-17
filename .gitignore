@@ -1,0 +1,8 @@
+target
+bin
+.project
+.classpath
+.settings
+.metadata
+*.swp
+rebel.xml
